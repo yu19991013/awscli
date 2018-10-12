@@ -8,7 +8,7 @@
         - Name  
         - ID  
         - Type  
-        - Ava  
+        - Availability  
         - status  
         - SG  
     - 操作  
